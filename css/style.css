@@ -25,7 +25,6 @@ nav::after {
 }
 
 .nav-group {
-
 	width: 100%;
 	list-style: none;
 
@@ -95,7 +94,7 @@ nav::after {
 		display: flex;
         margin-left: 0;
 		flex-direction: column;
-		background: linear-gradient(#5d5cca, #6f3f95);
+		background: linear-gradient(#6f3f95, #5d5cca);
 		height: 100vh;
 		width: 100%;
 
